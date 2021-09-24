@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garvitgrover
 - 🌱 I’m currently learning BTech CSE
-- 📫 How to reach me : Instagram @garvitgroverr
+- 📫 How to reach me : Instagram @garvitgroverrr
 
 <!---
 garvitgrover/garvitgrover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
